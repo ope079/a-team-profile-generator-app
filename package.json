@@ -1,0 +1,22 @@
+{
+  "name": "a-team-profile-generator-app",
+  "version": "1.0.0",
+  "description": "Module 14 CHallenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ope079/a-team-profile-generator-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ope079/a-team-profile-generator-app/issues"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "jest": "^27.5.1"
+  }
+}
